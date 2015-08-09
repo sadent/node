@@ -18,5 +18,10 @@
   "bugs": {
     "url": "https://github.com/sadent/node/issues"
   },
-  "homepage": "https://github.com/sadent/node"
+  "homepage": "https://github.com/sadent/node",
+  "dependencies": {
+    "css": "^2.2.1",
+    "flatiron": "^0.4.3",
+    "winston": "^1.0.1"
+  }
 }
